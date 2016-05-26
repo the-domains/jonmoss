@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[jonmoss]]></title>
         <description><![CDATA[jonmoss]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jonmoss/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 22:04:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 26 May 2016 23:03:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jonmoss/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Artis a diverse range of human activitiesin creating visual, auditory or performing artifacts –artworks, expressing the author's imaginative or technical skill, intended to be appreciated for their beauty or emotional power.[1][2]In their most general form these activities include the production of works of art, the criticism of art, the study of the history of art, and the aesthetic dissemination of art.</p>]]></description>
-            <link>undefinedartis-a-diverse-range-of-human-activitiesin-creating-visual/index.html</link>
+            <description><![CDATA[<p>Art is a diverse range of human activities in creating visual, auditory or performing artifacts –artworks, expressing the author's imaginative or technical skill, intended to be appreciated for their beauty or emotional power.[1][2]In their most general form these activities include the production of works of art, the criticism of art, the study of the history of art, and the aesthetic dissemination of art.</p>]]></description>
+            <link>https://thegrid.ai/jonmoss/artis-a-diverse-range-of-human-activitiesin-creating-visual/index.html</link>
             <guid isPermaLink="false">3ea594af-2f7a-4b39-90fb-bfd47be49b6b</guid>
-            <pubDate>Thu, 26 May 2016 22:03:52 GMT</pubDate>
+            <pubDate>Thu, 26 May 2016 23:02:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
