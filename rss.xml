@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[jonmoss]]></title>
+        <description><![CDATA[jonmoss]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 26 May 2016 22:04:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Artis a diverse range of human activitiesin creating visual, auditory or performing artifacts –artworks, expressing the author's imaginative or technical skill, intended to be appreciated for their beauty or emotional power.[1][2]In their most general form these activities include the production of works of art, the criticism of art, the study of the history of art, and the aesthetic dissemination of art.</p>]]></description>
+            <link>undefinedartis-a-diverse-range-of-human-activitiesin-creating-visual/index.html</link>
+            <guid isPermaLink="false">3ea594af-2f7a-4b39-90fb-bfd47be49b6b</guid>
+            <pubDate>Thu, 26 May 2016 22:03:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
