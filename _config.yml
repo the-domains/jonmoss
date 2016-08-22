@@ -27,6 +27,10 @@ cta:
   bucket: null
   version: null
   domain: null
+navigation:
+  - name: Sketchwork
+    id: 14740c24-f3cc-4322-9725-85a7d868f84d
+    type: content
 favicon: null
 collections:
   - index:
