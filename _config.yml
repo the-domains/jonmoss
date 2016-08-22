@@ -1,9 +1,33 @@
-favicon: null
-name: jonmoss
+typography_spectrum: 0.6964598519261926
+color:
+  saturation: 0.7222222
+  brandStrength: 0.4014337
+  lightness: 0.2562724
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  rhythmicContrast: 0.7240143
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.734767
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+author:
+  name: Jonathan Moss
+  email: art@jonmoss.org.uk
+name: Jonathan Moss
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -16,25 +40,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Eat. Sleep. Sketch.
 purpose: []
-color:
-  saturation: 0.7222222
-  brandStrength: 0.4014337
-  lightness: 0.2562724
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  rhythmicContrast: 0.7240143
-typography_spectrum: 0.6964598519261926
-layout_spectrum: 0.734767
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
