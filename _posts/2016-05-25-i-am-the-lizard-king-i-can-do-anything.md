@@ -1,20 +1,21 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'I am the Lizard King, I can do anything!'
-datePublished: '2016-05-25T17:28:16.169Z'
-dateModified: '2016-05-25T17:16:53.907Z'
+datePublished: '2016-08-22T16:59:59.043Z'
+dateModified: '2016-08-22T16:59:58.423Z'
 title: ''
 author: []
 authors: []
-publisher: null
-starred: false
+publisher: {}
 sourcePath: _posts/2016-05-25-i-am-the-lizard-king-i-can-do-anything.md
-_type: Blurb
+via: {}
+starred: false
+url: i-am-the-lizard-king-i-can-do-anything/index.html
+_type: Article
 
 ---
 I am the Lizard King, I can do anything!
